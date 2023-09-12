@@ -14,9 +14,10 @@ Welcome to the Mini Projects Repository! This repository contains a collection o
 
 Here's a list of projects included in this repository:
 
-1. [Project 1: Todo_Web_App](./todo_app/): Description of Project 1.
-2. [Project 2: Favicon_Grabber](./Favicon Grabber Using JavaScript/): Description of Project 2.
-3. [Project 3: QrCode_Generator](./QR Code Generator/): Description of Project 3.
+1. [Project 1: Todo_Web_App](https://todo-web-app-2nvv.onrender.com): Streamline your tasks with a minimalist Todo web app built with HTML, CSS, and JavaScript.
+2. [Project 2: Favicon_Grabber](https://tinyurl.com/faviconGrabber): Effortlessly fetch website favicons with this Favicon Grabber tool.
+3. [Project 3: QrCode_Generator](https://tinyurl.com/textqrgen): Generate QR codes easily with this QR code generator tool made using Javascript.
+4. [Project 4: FD_Calcultor](./FD_Calculator/): Calculate fixed deposit quickly with this FD Calculator web app.
 
 Each project folder contains its own README with specific details, instructions, and code.
 
