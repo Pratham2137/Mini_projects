@@ -14,9 +14,9 @@ Welcome to the Mini Projects Repository! This repository contains a collection o
 
 Here's a list of projects included in this repository:
 
-1. [Project 1: Project Name](./project1/): Description of Project 1.
-2. [Project 2: Project Name](./project2/): Description of Project 2.
-3. [Project 3: Project Name](./project3/): Description of Project 3.
+1. [Project 1: Todo_Web_App](./todo_app/): Description of Project 1.
+2. [Project 2: Favicon_Grabber](./Favicon Grabber Using JavaScript/): Description of Project 2.
+3. [Project 3: QrCode_Generator](./QR Code Generator/): Description of Project 3.
 
 Each project folder contains its own README with specific details, instructions, and code.
 
