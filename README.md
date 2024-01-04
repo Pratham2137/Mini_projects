@@ -1,6 +1,6 @@
-# Mini Projects Repository
+# Projects Repository
 
-Welcome to the Mini Projects Repository! This repository contains a collection of small-scale coding projects and exercises that I've completed to enhance my skills in various programming languages and technologies. Each project is designed to demonstrate specific concepts, showcase coding proficiency, and serve as a learning resource for others.
+Welcome to the Projects Repository! This repository contains a collection of coding projects and exercises that I've completed to enhance my skills in various programming languages and technologies. Each project is designed to demonstrate specific concepts, showcase coding proficiency, and serve as a learning resource for others.
 
 ## Table of Contents
 
